@@ -1,0 +1,15 @@
+C:\Users\odext\Desktop\Дз\Дз3\bin\Debug\net6.0\Дз3.exe
+C:\Users\odext\Desktop\Дз\Дз3\bin\Debug\net6.0\Дз3.deps.json
+C:\Users\odext\Desktop\Дз\Дз3\bin\Debug\net6.0\Дз3.runtimeconfig.json
+C:\Users\odext\Desktop\Дз\Дз3\bin\Debug\net6.0\Дз3.dll
+C:\Users\odext\Desktop\Дз\Дз3\bin\Debug\net6.0\Дз3.pdb
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.csproj.AssemblyReference.cache
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.AssemblyInfoInputs.cache
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.AssemblyInfo.cs
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.csproj.CoreCompileInputs.cache
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.dll
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\refint\Дз3.dll
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.pdb
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\Дз3.genruntimeconfig.cache
+C:\Users\odext\Desktop\Дз\Дз3\obj\Debug\net6.0\ref\Дз3.dll
